@@ -100,7 +100,7 @@ The architecture involves a combination of frontend and backend services:
 By following this refactoring strategy and leveraging AWS services, we aim to achieve a more flexible, scalable, and cost-effective infrastructure. The project's success will be measured by improved agility, reduced operational overhead, and enhanced overall performance of the vprofile application.
 
 ## Prerequisites
-#
+
 - JDK 1.8 or later
 - Maven 3 or later
 - MySQL 5.6 or later
