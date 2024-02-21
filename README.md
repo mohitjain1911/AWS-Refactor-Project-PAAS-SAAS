@@ -17,7 +17,7 @@ This project focuses on enhancing the existing vprofile application stack deploy
 3. **Infrastructure as Code and Cloud Services:**
    - Utilize AWS services for Platform as a Service (PaaS) and Software as a Service (SaaS).
    - Implement Infrastructure as Code (IaC) for easy management and automation.
-
+   
 4. **Cost Optimization:**
    - Move away from traditional infrastructure to cloud-managed services.
    - Embrace a pay-as-you-go model to optimize costs.
