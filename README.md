@@ -2,7 +2,7 @@
 
 ## Project Overview:
 
-Welcome to the "Refactoring with AWS" project! This project focuses on enhancing the existing vprofile application stack deployed on both local machines and AWS Cloud. In the previous project, we successfully deployed the application using the "lift and shift" strategy. However, in this iteration, we aim to re-architect and refactor our services to improve agility, business continuity, scalability, and overall performance.
+This project focuses on enhancing the existing vprofile application stack deployed on both local machines and AWS Cloud. We aim to re-architect and refactor our services to improve agility, business continuity, scalability, and overall performance.
 
 ## Project Objectives:
 
@@ -99,4 +99,3 @@ The architecture involves a combination of frontend and backend services:
 
 By following this refactoring strategy and leveraging AWS services, we aim to achieve a more flexible, scalable, and cost-effective infrastructure. The project's success will be measured by improved agility, reduced operational overhead, and enhanced overall performance of the vprofile application.
 
-Feel free to explore the AWS console and follow the steps outlined in this README to recreate and understand the project architecture. Happy coding!
